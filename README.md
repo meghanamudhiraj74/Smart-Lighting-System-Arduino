@@ -35,4 +35,4 @@ Based on the sensor value, Arduino controls the LED automatically.
 - Tinkercad Simulation
 
 ## Author
-Meghana Mudhiraj
+Gaddikopulla Meghana
